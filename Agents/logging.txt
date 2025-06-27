@@ -1,0 +1,22 @@
+Your Conversation Log:
+
+You: Hi, i am Jerry!
+AI: Hi Jerry! It's nice to meet you. How's your day going so far? 😊 
+
+Is there anything you'd like to talk about or anything I can help you with today?
+
+You: WWhat is my name?
+AI: AI: Your name is Jerry! 😊
+
+You: Tell me a joke.
+AI: Okay, here's a joke for you:
+
+Why did the chicken cross the playground? 
+
+... To get to the other slide! 😄
+
+---
+
+Would you like to hear another one?
+
+End of Conversation
