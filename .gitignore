@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 .python-version
+*.sqlite3
+d9219a1d-aac3-4591-8fad-b70cd34da966/
 # C extensions
 *.so
 
